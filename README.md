@@ -1,1 +1,2 @@
 - 👋 Hi, I’m <strong>Md Masud</strong>
+- <h2>Frontend Developer</h2>
