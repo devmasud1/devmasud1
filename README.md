@@ -1,5 +1,5 @@
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://i.ibb.co/16J0jgn/banner.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=devmasud1&label=Profile%20views&color=0e75b6&style=flat)
 
