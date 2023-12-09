@@ -48,7 +48,23 @@ Let's build something incredible together! ✨
 
 - **View Code:** - [Frontend](https://github.com/devmasud1/hunger-relief-client)      - [Backend](https://github.com/devmasud1/hunger-relief-server)
 
-- **Live Site:** [View](https://hunger-relief0.web.app/)  
+- **Live Site:** [View](https://hunger-relief0.web.app/)
+
+### Project-3: [EcoTech Universe]
+
+**Description:** 
+  - The project involves creating a Matrimony platform using the MERN stack (MongoDB, Express.js, React, Node.js). It aims to provide an online platform where users can create biodata profiles and search for potential life partners.
+
+ **Features:**
+  - Users will be able to create an account.
+  - Users will also be able to log in with Google.
+  - Products can be added from the Add Product page.
+  - You can see all the carts that have added products on the My Cart page.
+  - Clicking on any brand on the home page will display data related to that brand.
+
+ **View Code:** - [Frontend](https://github.com/devmasud1/ecoTech-universe-client)      - [Backend](https://github.com/devmasud1/ecoTech-universe-server)
+
+ **Live Site:** [View](https://eco-tech-universe.web.app/)  
 
 
 ## Current GitHub Stats:
