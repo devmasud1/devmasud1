@@ -26,13 +26,29 @@ Let's build something incredible together! ✨
 
 ## Projects:
 
-### Project 1: [Heard Bond]
+### Project-1: [Heard Bond]
 
-- **Description:** Brief description of the project.
-- **Files:** [Link to project files or repository]
-- [Any additional information about the project or its impact.]
+- **Description:** The 'Heard Bond' .............
+
+- **Features:**
+  - user...........
+- **Technology Used:**
+  - **Front-end:** 
+    - JavaScript (ES6), React, tailwind , react-flowbite, Context API, and various other essential libraries.
+  - **Back-end:** 
+    - Node.js, Express.js, vercel(used for deployment).
+  - **Database:** 
+    - MongoDB.
+  - **Authentication:** 
+    - Firebase.
+
+- **Live Site:** [see](https://heart-bond.web.app/)
+
 
 ## Current GitHub Stats:
+
+[![Md Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmasud1&show_icons=true&include_all_commits=true)](https://github.com/devmasud1)
+
 
 [![Md Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmasud1&show_icons=true)](https://github.com/devmasud1)
 
