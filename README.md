@@ -32,7 +32,9 @@ Let's build something incredible together! ✨
   - The project involves creating a Matrimony platform using the MERN stack (MongoDB, Express.js, React, Node.js). It aims to provide an online platform where users can create biodata profiles and search for potential life partners.
 
  **Features:**
-  - The platform includes features such as responsive design, user authentication (login and registration), biodata creation and editing, profile browsing with filters, premium membership options, contact information request functionality, success stories showcase, user dashboard for managing biodata, favorites, and contact requests. Additionally, there's an admin dashboard to manage users, approve premium requests, handle contact requests, and oversee site statistics. The project requires implementing various functionalities for different user roles and ensuring a smooth user experience across devices.
+  - The platform includes features such as responsive design, user authentication (login and registration), biodata creation and editing, profile browsing with filters, premium membership options, contact information request functionality, success stories showcase, user dashboard for managing biodata, favorites, and contact requests.
+ - Additionally, there's an admin dashboard to manage users, approve premium requests, handle contact requests, and oversee site statistics.
+ - The project requires implementing various functionalities for different user roles and ensuring a smooth user experience across devices..
 
  **View Code:** - [Frontend](https://github.com/devmasud1/heart-bond-client)      - [Backend](https://github.com/devmasud1/heart-bond-server)
 
