@@ -26,7 +26,7 @@ Let's build something incredible together! ✨
 
 ## Projects:
 
-### Project 1: [Project Name]
+### Project 1: [Heard Bond]
 
 - **Description:** Brief description of the project.
 - **Files:** [Link to project files or repository]
@@ -34,11 +34,12 @@ Let's build something incredible together! ✨
 
 ## Current GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devmasud1&show_icons=true&theme=transparent)
+[![Md Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmasud1&show_icons=true)](https://github.com/devmasud1)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devmasud1)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmasud1&layout=compact)](https://github.com/devmasud1/github-readme-stats)
+
 
 ## Connect with me:
 
