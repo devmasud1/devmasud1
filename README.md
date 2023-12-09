@@ -53,7 +53,7 @@ Let's build something incredible together! ✨
 ### Project-3: [EcoTech Universe]
 
 **Description:** 
-  - The project involves creating a Matrimony platform using the MERN stack (MongoDB, Express.js, React, Node.js). It aims to provide an online platform where users can create biodata profiles and search for potential life partners.
+  - EcoTech Universe is your go-to destination for eco-conscious Technology and Electronics. Our platform highlights top-tier brands like Apple, Samsung, Sony, Google, Intel, and more, focusing on sustainable tech solutions. Featuring an intuitive interface, users can explore a curated selection of eco-friendly products. Our platform ensures easy navigation, showcasing brand-specific pages with engaging sliders and detailed product displays.
 
  **Features:**
   - Users will be able to create an account.
