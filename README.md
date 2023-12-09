@@ -54,7 +54,7 @@ Let's build something incredible together! ✨
 
  **View Code:** - [Frontend](https://github.com/devmasud1/hunger-relief-client)      - [Backend](https://github.com/devmasud1/hunger-relief-server)
 
- **Live Site:** [View](https://hunger-relief0.web.app/)
+ **Live Site:** [View](https://faulty-juice.surge.sh/)
 
 ### Project-3: [EcoTech Universe]
 
