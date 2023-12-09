@@ -47,14 +47,17 @@ Let's build something incredible together! ✨
 
 ## Current GitHub Stats:
 
-[![Md Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmasud1&show_icons=true&include_all_commits=true)](https://github.com/devmasud1)
+<div style="display: flex;">
+  
+  <img src="https://github-readme-stats.vercel.app/api/?username=devmasud1&show_icons=true&locale=en" alt="devmasud1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmasud1" alt="devmasud1" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmasud1&show_icons=true&locale=en&layout=compact" alt="devmasud1" />
+</p>
 
 
-[![Md Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmasud1&show_icons=true)](https://github.com/devmasud1)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=devmasud1)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmasud1&layout=compact)](https://github.com/devmasud1/github-readme-stats)
 
 
 ## Connect with me:
