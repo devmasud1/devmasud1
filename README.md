@@ -7,15 +7,15 @@
 
 👋 Hi there! I'm Md Masud Rana, a passionate Frontend Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I thrive on creating responsive and intuitive web applications that deliver engaging user experiences.
 
-🚀 With [1 years] of hands-on experience in web development, I've honed my skills in crafting robust frontend solutions using modern technologies like HTML, CSS, JavaScript, and various frontend frameworks and libraries.
+🚀 With [1 year] of hands-on experience in web development, I've honed my skills in crafting robust frontend solutions using modern technologies like HTML, CSS, JavaScript, and various frontend frameworks and libraries.
 
-🌱 Currently, I'm deeply involved in leveraging the power of React.js to build scalable and efficient user interfaces. My curiosity and enthusiasm for learning drive me to stay updated with the latest frontend trends and best practices.
+🌱 Currently, I'm deeply involved in leveraging the power of React.js to build scalable and efficient user interfaces. My curiosity and enthusiasm for learning drive me to stay updated with the latest front-end trends and best practices.
 
 🔨 Apart from my frontend skills, I'm well-versed in integrating frontend components with backend systems built on Node.js and Express.js. I have proficiency in MongoDB, enabling seamless data management for full-stack applications.
 
 👨‍💻 I'm actively seeking exciting opportunities to collaborate on impactful projects, contribute to open-source initiatives, and continuously expand my skill set in the ever-evolving world of web development.
 
-📫 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/mahmud-a-masud/) to discuss potential projects, share ideas, or simply chat about technology and innovation!
+📫 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/mahmud-a-masud/) to discuss potential projects, share ideas, or chat about technology and innovation!
 
 Let's build something incredible together! ✨
 
@@ -34,7 +34,7 @@ Let's build something incredible together! ✨
   - user...........
 - **Technology Used:**
   - **Front-end:** 
-    - JavaScript (ES6), React, tailwind , react-flowbite, Context API, and various other essential libraries.
+    - JavaScript (ES6), React, tailwind, react-flowbite, Context API, and other essential libraries.
   - **Back-end:** 
     - Node.js, Express.js, vercel(used for deployment).
   - **Database:** 
@@ -47,10 +47,15 @@ Let's build something incredible together! ✨
 
 ## Current GitHub Stats:
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
   
-  <img src="https://github-readme-stats.vercel.app/api/?username=devmasud1&show_icons=true&locale=en" alt="devmasud1" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmasud1" alt="devmasud1" />
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/?username=devmasud1&show_icons=true&locale=en" alt="devmasud1" />
+  </p>
+  <p align="right">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmasud1" alt="devmasud1" />
+  </p>
+  
 </div>
 
 <p align="center">
