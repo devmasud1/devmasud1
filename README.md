@@ -75,9 +75,7 @@ Let's build something incredible together! ✨
 
 ## Current GitHub Stats:
 
-![Devmasud1's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=devmasud1&show_icons=true&locale=en)
-![Devmasud1's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmasud1)
-
+![Devmasud1's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=devmasud1&show_icons=true&locale=en) ![Devmasud1's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmasud1)
 
 ![Devmasud1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmasud1&show_icons=true&locale=en&layout=compact)
 
